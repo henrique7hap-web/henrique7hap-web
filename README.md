@@ -72,7 +72,7 @@ Prazer, Henrique Afonso! 👋
 <!-- TECH STACK (APENAS ÍCONES/LOGOS)          -->
 <!-- ========================================== -->
 
-<h3>⚡ Conjunto de Tecnologias & Arsenal</h3>
+<h3>🔧 Conjunto de Tecnologias</h3>
 
 <div align="center">
   <a href="#">
@@ -91,32 +91,19 @@ Prazer, Henrique Afonso! 👋
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Automação acom Python</h4>
+      <h4>🤖 Automação com Python</h4>
       <p>Projetos e scripts focados no aprendizado de algoritmos, resolução de problemas e manipulação de dados.</p>
       <br />
       <a href="https://github.com/Henrique7hap?tab=repositories">📂 Ver Repositórios</a>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Desenvolvimento Web</h4>
+      <h4>👨🏻‍💻 Desenvolvimento Web</h4>
       <p>Páginas e interfaces interativas desenvolvidas do zero usando HTML5, CSS3 e JavaScript puro.</p>
       <br />
       <a href="https://github.com/Henrique7hap?tab=repositories">📂 Ver Repositórios</a>
     </td>
   </tr>
 </table>
-
-<br />
-
-<!-- ========================================== -->
-<!-- MÉTRICAS DO GITHUB                         -->
-<!-- ========================================== -->
-
-<h3>📊 Estatísticas no GitHub</h3>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Henrique7hap&show_icons=true&theme=dark&color_title=00ff66&color_text=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique7hap&layout=compact&theme=dark&color_title=00ff66&color_text=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-</div>
 
 <br />
 
@@ -139,6 +126,6 @@ Prazer, Henrique Afonso! 👋
 <hr />
 
 <div align="center">
-  <p><i>"A melhor maneira de prever o futuro é programá-lo."</i></p>
+  <p><i>""</i></p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=30&section=footer&text=HENRIQUE%20AFONSO%20|%20ADS%20UNINOVE%20MEMORIAL&fontSize=12&fontColor=00ff66" width="100%" alt="Footer" />
 </div>
