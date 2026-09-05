@@ -94,7 +94,7 @@ Prazer, Henrique Afonso! 👋
       <h4>🤖 Automação com Python</h4>
       <p>Projetos e scripts focados no aprendizado de algoritmos, resolução de problemas e manipulação de dados.</p>
       <br />
-      <a href="https://github.com/Henrique7hap?tab=repositories">📂 Ver Repositórios</a>
+     <a href="https://github.com/Henrique7hap?tab=repositories">📂 Ver Repositórios</a>
     </td>
     <td width="50%" valign="top">
       <h4>👨🏻‍💻 Desenvolvimento Web</h4>
